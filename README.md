@@ -6,10 +6,10 @@
 <a name="description"></a>
 ## 1. Description
 
-### This is the layout of the Web-APi-Quiz project
+### This is the layout of the Web-APi-Schedule 
 
 Desktop View:
-![Top-Page](https://github.com/MarcosManresa/05-Third-Party-Apis-Work/blob/main/Develop/images/Capture.PNG)
+![Top-Page](https://github.com/MarcosManresa/05-Web-Api-Schedule/blob/main/Develop/images/Capture.PNG)
 
 
 
@@ -20,13 +20,13 @@ Desktop View:
 ### Open your web browser and enter this link.
 
 ```html
-https://marcosmanresa.github.io/04-Web-Api-Quiz/
+https://marcosmanresa.github.io/05-Web-Api-Schedule/
 ```
 
 <a name="usage-tips"></a>
 ## 3. Usage tips to help with issues
 
-### Please write out what is on your schedule for the current time. After writing it down, select the save icon and it will be saved to the Local storage so when the page is refreshed, you do not lose the data you entered.
+### Enter the data for your current time and future time into the text box provided. Once the data has been entered select the save button, to save the data entered into the local machine. Once the page is refreshed if saved correctly it will stay on the page, until deleted.
 
 ![Usage-tip](https://github.com/MarcosManresa/05-Web-Api-Schedule/blob/main/Develop/images/Capture2.PNG)
 
@@ -40,4 +40,5 @@ https://marcosmanresa.github.io/04-Web-Api-Quiz/
 ### Some of the psuedo-code used to reach this final product
 
 ![Psuedo-code](https://github.com/MarcosManresa/05-Web-Api-Schedule/blob/main/Develop/images/Capture4.png)
+
 
